@@ -2,7 +2,7 @@ CodeQL Code Scanning for the OpenSSL Project
 ============================================
 This repo aim to run CodeQL againist the [open-source OpenSSL repo](https://github.com/openssl/openssl). 
 - Only the [CodeQL Actions](https://github.com/octodemo/openssl/blob/master/.github/workflows/codeql.yml) is enabled.
-- Different branches `security-extended` and `security-and-quality` are created to run different query pack. Review with the `branch` filter in the [Code scanning alerts page](https://github.com/octodemo/openssl/security/code-scanning).
+- Different branches `security-extended` and `security-and-quality` are created to run different query packs. Review with the `branch` filter in the [Code scanning alerts page](https://github.com/octodemo/openssl/security/code-scanning).
 
 
 
